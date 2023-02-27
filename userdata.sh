@@ -3,7 +3,7 @@ apt-get update -y
 apt-get install git -y
 apt-get install python3 -y
 cd /home/ubuntu/
-TOKEN=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
+TOKEN=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
 git clone https://$TOKEN@github.com/yhnkaya/Capstone-Project-Blog-Page-App--Django--on-AWS-Environment.git
 cd /home/ubuntu/Capstone
 apt install python3-pip -y
